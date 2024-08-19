@@ -51,7 +51,7 @@ const Todo = () => {
   
   return (
 
-    <div className='min-h-[600px] bg-zinc-800 p-8 rounded-2xl place-self-center drop-shadow-lg  max-w-[500px]  min-w-[500px] gap-6  flex flex-col'>
+    <div className='min-h-[600px] bg-zinc-800 p-8 rounded-2xl place-self-center drop-shadow-lg  max-w-[500px]  min-w-[500px] gap-6 max-[550px]:w-[350px] max-[550px]:min-w-[400px] max-[440px]:min-w-[150px] max-[440px]:min-h-[480px]  flex flex-col'>
             
       <div className='flex flex-row items-center gap-4'>
           <img src={Todo_icon} className='h-6' alt="" />
@@ -60,9 +60,9 @@ const Todo = () => {
       </div> 
 
       <hr className='w-[180px] border-blue-400  border-[1.5px] opacity-60' />
-      <div className='w-auto mt-2 '>
-        <input  ref={inputRef} className='outline-none h-100  p-[10px] bg-zinc-700 w-[70%] text-slate-200 rounded-l-lg ' type="text" id="" placeholder='Add Your Task ' />
-        <button onClick={add} className='text-white p-[10px] bg-gradient-to-r from-blue-400 to-blue-500  w-[20%] rounded-r-lg'> ADD + </button>
+      <div className='w-auto  mt-2 '>
+        <input  ref={inputRef} className='outline-none h-100  p-[10px] bg-zinc-700 w-[70%] text-slate-200 rounded-l-lg max-[550px]:w-[60%] ' type="text" id="" placeholder='Add Your Task ' />
+        <button onClick={add} className='text-white p-[10px] bg-gradient-to-r from-blue-400 to-blue-500  w-[25%] rounded-r-lg  max-[440px]:w-[30%]  '> ADD + </button>
       </div>
 
       <div className='flex justify-center flex-col gap-3 '>
