@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/To-Do-Modern-App-React--Tailwind/static/css/main.379a9850.css",
+    "main.js": "/To-Do-Modern-App-React--Tailwind/static/js/main.6d31a906.js",
+    "static/js/453.a6f6b83d.chunk.js": "/To-Do-Modern-App-React--Tailwind/static/js/453.a6f6b83d.chunk.js",
+    "static/media/todoicon.png": "/To-Do-Modern-App-React--Tailwind/static/media/todoicon.11e7a13ded621fa51f54.png",
+    "index.html": "/To-Do-Modern-App-React--Tailwind/index.html",
+    "static/media/Checked.svg": "/To-Do-Modern-App-React--Tailwind/static/media/Checked.2c6730155619ad4260eaf2f69e19899e.svg",
+    "static/media/Unchecked.svg": "/To-Do-Modern-App-React--Tailwind/static/media/Unchecked.10f54e2e478631f40840192673802e57.svg",
+    "static/media/deleteicon.svg": "/To-Do-Modern-App-React--Tailwind/static/media/deleteicon.1325bc91f21962f0144301f0d03d1486.svg",
+    "main.379a9850.css.map": "/To-Do-Modern-App-React--Tailwind/static/css/main.379a9850.css.map",
+    "main.6d31a906.js.map": "/To-Do-Modern-App-React--Tailwind/static/js/main.6d31a906.js.map",
+    "453.a6f6b83d.chunk.js.map": "/To-Do-Modern-App-React--Tailwind/static/js/453.a6f6b83d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.379a9850.css",
+    "static/js/main.6d31a906.js"
+  ]
+}
